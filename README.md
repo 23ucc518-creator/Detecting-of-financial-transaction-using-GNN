@@ -1,3 +1,3 @@
-# Detection-of-financial-transaction-using-GNN
+# Description
 
 Whole code and we have used credit-card dataset and PaySim dataset
